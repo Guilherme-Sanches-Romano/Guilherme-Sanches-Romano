@@ -7,7 +7,7 @@
 - :smile: Aceito qualquer ajuda ou conselho :smile:
 
 <div align="center">
-  <a href="https://github.com/Guilherme-Sanches-Romano
+  <a href="https://github.com/Guilherme-Sanches-Romano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Sanches-Romano&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sanches-Romano&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
