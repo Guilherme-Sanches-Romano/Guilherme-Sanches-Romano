@@ -1,7 +1,7 @@
 <h1 align="center">Ola!!! 👋, Eu sou Guilherme Sanches Romano</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistema Pela Fatec São Paulo</h3>
 
--  :nerd_face: Sou um estudante na programção :nerd_face:
+-  :nerd_face: Sou um estudante na programação :nerd_face:
 - :drooling_face:  Disposto a aprender cada vez mais sobre esse mundo :drooling_face:
 - :brazil:  Brasileiro  :brazil:
 - :smile: Aceito qualquer ajuda ou conselho :smile:
